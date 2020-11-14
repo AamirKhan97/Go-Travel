@@ -1,0 +1,46 @@
+html{
+    scroll-behavior: smooth;
+}
+.compaq:hover{
+    background-color: teal;
+    color: white;
+    border-radius: 20px;
+}
+.bg-grey, .btn-grey{
+    background: linear-gradient(45deg,black,teal,navy);
+}
+.text-grey{
+   color: teal;
+
+}
+.carousel .carousel-indicators li {
+    width: 30px;
+    height: 5px;
+    border-radius: 0%;
+}
+.carousel-caption{
+    bottom: 200px;
+}
+.aamiiir{
+    background-color: black;
+}
+.samir:hover{
+    background: linear-gradient(45deg,black,darkslategrey);
+    color: whitesmoke;
+}
+
+.aamir:hover{
+    background: linear-gradient(45deg,black,darkslategrey);
+    color: whitesmoke;
+}
+.fly{
+    box-shadow: 0 10px 10px black;
+}
+.flyy{
+    box-shadow: 0 10px 10px black;
+}
+.fly:hover{
+    transform: scale(1.1,1.1);
+    transition: all 0.5s;
+}
+body
